@@ -37,5 +37,5 @@ tenis1.setPreco(600)
 
 console.log('novo valor do tenis: '+ tenis1.getPreco())
 
-console.log(tenis2)
-console.log(camisa1)
+console.log(tenis2);
+console.log(camisa1);
